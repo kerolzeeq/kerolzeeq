@@ -28,6 +28,12 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
+### Github Stats :
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=kerolzeeq&show_icons=true&theme=react">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerolzeeq&layout=compact&theme=react&langs_count=8">
+</p>
+
 ### Contact me 🤝🏻:
 <a href = "https://www.instagram.com/kerolzeeq/"><img alt="Instagram" src="https://img.shields.io/badge/kerolzeeq%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href ="https://www.linkedin.com/in/khairol-hazeeq-a687a7118/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
