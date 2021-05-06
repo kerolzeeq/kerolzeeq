@@ -1,4 +1,5 @@
 # Khairol-Hazeeq
+![Profile views](https://gpvc.arturio.dev/kerolzeeq)
 ### Zekeleton ☠️.
 
 - I build videogames
