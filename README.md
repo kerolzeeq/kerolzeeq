@@ -4,7 +4,7 @@
 
 - I build videogames
 - 🤟 Tenacious D-sciple
-- #KP
+- KP
 
 ### Check out my games here! 🎮 :
 
