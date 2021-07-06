@@ -3,8 +3,6 @@
 ### Also known as Zekeleton ☠️.
 
 - I build videogames
-- 🤟 Tenacious D-sciple
-- KP
 
 ### Check out my games here! 🎮 :
 
