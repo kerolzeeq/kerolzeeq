@@ -1,6 +1,6 @@
-# Khairol-Hazeeq
+# Khairol Hazeeq
 ![](https://komarev.com/ghpvc/?username=kerolzeeq)
-### Zekeleton ☠️.
+### Also known as Zekeleton ☠️.
 
 - I build videogames
 - 🤟 Tenacious D-sciple
