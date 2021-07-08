@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=kerolzeeq)
 ### Also known as Zekeleton ☠️.
 
+- University Malaya student
 - I build videogames
 
 ### Check out my games here! 🎮 :
